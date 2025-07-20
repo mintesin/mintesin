@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mintesinot Argaw</h1>
 <h3 align="center">🚀 A passionate Backend & Data Engineer working with Microservices, Node.js, and Big Data Tools</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Node.js%20%7C%20Python%20%7C%20JavaScript%20%7C%20Docker%20%7C%20Microservices%20%7C%20EDA%20%7C%20Apache%20Spark%20%7C%20Zookeeper%20%7C%20React.js&center=true&width=1000&height=45&font=Fira%20Code&pause=1000&color=00FFFF&vCenter=true&size=22" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Node.js%20%7C%20 Python%20%7C%20JavaScript%20%7C%20Docker%20%7C%20Microservices%20%7C%20EDA%20%7C%20Apache%20Spark%20%7C%20Zookeeper%20%7C%20React.js&center=true&width=1000&height=45&font=Fira%20Code&pause=1000&color=00FFFF&vCenter=true&size=22" alt="Typing animation" />
 </p>
 
 ---
