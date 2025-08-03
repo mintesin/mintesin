@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mintesinot Argaw</h1>
 <h3 align="center">🚀 A passionate junior Backend & Data Engineer working with Microservices, Node.js, FastAPI, and Data Tools. Quite Familiar with Kafka and Azure</h3> 
-<h3 align="center">🚀 I want to be  BIg data engineer working on IoT Applications</h3> 
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Node.js%20%7C%20Python%20%7C%20JavaScript%20%7C%20Docker%20%7C%20Microservices%20%7C%20EDA%20%7C%20Apache%20Spark%20%7C%20Zookeeper%20%7C%20React.js&center=true&width=1000&height=45&font=Fira%20Code&pause=1000&color=00FFFF&vCenter=true&size=22" alt="Typing animation" />
