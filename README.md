@@ -5,18 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working Freelance at Outliers and Aligner as an AI data annotator.
+- 🌱 I’m currently learning Master's in Computer Science
 --> 
 
 <h1 align="center">Hi 👋, I'm Mintesinot Argaw</h1>
-<h3 align="center">🚀 A passionate Backend & Data Engineer working with Microservices, Node.js, FastAPI and Big Data Tools</h3>
+<h3 align="center">🚀 A passionate junior Backend & Data Engineer working with Microservices, Node.js, FastAPI, and Data Tools. Quite Familiar with Kafka and Azure</h3> 
+<h3 align="center">🚀 I want to be  BIg data engineer working on IoT Applications</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Node.js%20%7C%20Python%20%7C%20JavaScript%20%7C%20Docker%20%7C%20Microservices%20%7C%20EDA%20%7C%20Apache%20Spark%20%7C%20Zookeeper%20%7C%20React.js&center=true&width=1000&height=45&font=Fira%20Code&pause=1000&color=00FFFF&vCenter=true&size=22" alt="Typing animation" />
@@ -43,16 +38,25 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mintesin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+
+  <!-- Donut Chart for Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintesin&layout=donut&theme=tokyonight&langs_count=8&hide=c%2B%2B" alt="Top Languages Donut" height="180"/>
+
+  <!-- Compact Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintesin&layout=compact&theme=tokyonight" alt="Top Langs Compact" height="180"/>
 </p>
+
+
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mintesin&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
