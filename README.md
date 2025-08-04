@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mintewargaw/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:argawmintesinot@gmail.com">
+  <a href="mailto:workmin751@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
